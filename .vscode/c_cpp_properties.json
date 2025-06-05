@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "/opt/rocm/include/hip/**",
+                "/opt/rocm/include/**",
+                "/home/qin/libtorch_rocm/libtorch/include/**",
+                "/home/qin/libtorch_rocm/libtorch/lib/**",
+                "/home/qin/libtorch_rocm/libtorch/share/**",
+                "/usr/include/jsoncpp/**"
+
+            ],
+            "defines": ["__HIP_PLATFORM_AMD__"],
+            "compilerPath": "/usr/bin/hipcc",
+            "cStandard": "c17",
+            "cppStandard": "gnu++17",
+            "intelliSenseMode": "linux-gcc-x64"
+        }
+    ],
+    "version": 4
+}

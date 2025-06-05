@@ -1,0 +1,11 @@
+Possible ways to optimizate
+
+1: use __hip_fp8x4_e4m3_fnuz to load more data with one instruct
+
+2： bank conflit
+
+3: double buffer
+
+4: Loop Unrolling
+
+5：Load bandwidth optimizate ()

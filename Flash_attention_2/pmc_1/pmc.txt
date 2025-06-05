@@ -1,0 +1,3 @@
+pmc: GPUBusy, Wavefronts, VALUInsts, SALUInsts, GPU_UTIL, L2CacheHit, SQ_WAVE_CYCLES, OccupancyPercent, MemUnitBusy
+pmc: GPUBusy, Wavefronts, VALUInsts, SALUInsts, GPU_UTIL, L2CacheHit, SQ_WAVE_CYCLES, OccupancyPercent, MemUnitBusy
+pmc: GPUBusy, Wavefronts, VALUInsts, SALUInsts, GPU_UTIL, L2CacheHit, SQ_WAVE_CYCLES, OccupancyPercent, MemUnitBusy

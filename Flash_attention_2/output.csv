@@ -1,0 +1,2 @@
+Index,KernelName,gpu-id,queue-id,queue-index,pid,tid,grd,wgr,lds,scr,arch_vgpr,accum_vgpr,sgpr,wave_size,sig,obj,GPUBusy,Wavefronts
+0,"forward_kernel(__half const*, __half const*, __half const*, __half*, int, int, int, int) [clone .kd]",1,0,3,1599510,1599510,524288,32,6656,0,56,0,128,32,0x0,0x7701fa9d8a40,0.0000000000,16384.0000000000

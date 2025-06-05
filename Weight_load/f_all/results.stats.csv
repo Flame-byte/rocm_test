@@ -1,0 +1,2 @@
+"Name","Calls","TotalDurationNs","AverageNs","Percentage"
+"fetch_embeddings_kernel(int const*, __half const*, __half*, int, int)",1,195641,195641,100.0

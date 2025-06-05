@@ -1,0 +1,2 @@
+"Name","Calls","TotalDurationNs","AverageNs","Percentage"
+"void rocblas_sswap_2_kernel<256, float*>(int, float*, long, long, float*, long, long)",1,3085,3085,100.0

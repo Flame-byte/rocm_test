@@ -1,0 +1,2556 @@
+{
+    "tok_embeddings.weight": {
+        "offset": 0,
+        "shape": [
+            128256,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 525336576
+    },
+    "layers.0.attention.wq.weight": {
+        "offset": 1050673152,
+        "shape": [
+            4096,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 16777216
+    },
+    "layers.0.attention.wk.weight": {
+        "offset": 1084227584,
+        "shape": [
+            1024,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4194304
+    },
+    "layers.0.attention.wv.weight": {
+        "offset": 1092616192,
+        "shape": [
+            1024,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4194304
+    },
+    "layers.0.attention.wo.weight": {
+        "offset": 1101004800,
+        "shape": [
+            4096,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 16777216
+    },
+    "layers.0.feed_forward.w1.weight": {
+        "offset": 1134559232,
+        "shape": [
+            14336,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 58720256
+    },
+    "layers.0.feed_forward.w3.weight": {
+        "offset": 1251999744,
+        "shape": [
+            14336,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 58720256
+    },
+    "layers.0.feed_forward.w2.weight": {
+        "offset": 1369440256,
+        "shape": [
+            4096,
+            14336
+        ],
+        "dtype": "float16",
+        "num_elements": 58720256
+    },
+    "layers.0.attention_norm.weight": {
+        "offset": 1486880768,
+        "shape": [
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4096
+    },
+    "layers.0.ffn_norm.weight": {
+        "offset": 1486888960,
+        "shape": [
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4096
+    },
+    "layers.1.attention.wq.weight": {
+        "offset": 1486897152,
+        "shape": [
+            4096,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 16777216
+    },
+    "layers.1.attention.wk.weight": {
+        "offset": 1520451584,
+        "shape": [
+            1024,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4194304
+    },
+    "layers.1.attention.wv.weight": {
+        "offset": 1528840192,
+        "shape": [
+            1024,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4194304
+    },
+    "layers.1.attention.wo.weight": {
+        "offset": 1537228800,
+        "shape": [
+            4096,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 16777216
+    },
+    "layers.1.feed_forward.w1.weight": {
+        "offset": 1570783232,
+        "shape": [
+            14336,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 58720256
+    },
+    "layers.1.feed_forward.w3.weight": {
+        "offset": 1688223744,
+        "shape": [
+            14336,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 58720256
+    },
+    "layers.1.feed_forward.w2.weight": {
+        "offset": 1805664256,
+        "shape": [
+            4096,
+            14336
+        ],
+        "dtype": "float16",
+        "num_elements": 58720256
+    },
+    "layers.1.attention_norm.weight": {
+        "offset": 1923104768,
+        "shape": [
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4096
+    },
+    "layers.1.ffn_norm.weight": {
+        "offset": 1923112960,
+        "shape": [
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4096
+    },
+    "layers.2.attention.wq.weight": {
+        "offset": 1923121152,
+        "shape": [
+            4096,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 16777216
+    },
+    "layers.2.attention.wk.weight": {
+        "offset": 1956675584,
+        "shape": [
+            1024,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4194304
+    },
+    "layers.2.attention.wv.weight": {
+        "offset": 1965064192,
+        "shape": [
+            1024,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4194304
+    },
+    "layers.2.attention.wo.weight": {
+        "offset": 1973452800,
+        "shape": [
+            4096,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 16777216
+    },
+    "layers.2.feed_forward.w1.weight": {
+        "offset": 2007007232,
+        "shape": [
+            14336,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 58720256
+    },
+    "layers.2.feed_forward.w3.weight": {
+        "offset": 2124447744,
+        "shape": [
+            14336,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 58720256
+    },
+    "layers.2.feed_forward.w2.weight": {
+        "offset": 2241888256,
+        "shape": [
+            4096,
+            14336
+        ],
+        "dtype": "float16",
+        "num_elements": 58720256
+    },
+    "layers.2.attention_norm.weight": {
+        "offset": 2359328768,
+        "shape": [
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4096
+    },
+    "layers.2.ffn_norm.weight": {
+        "offset": 2359336960,
+        "shape": [
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4096
+    },
+    "layers.3.attention.wq.weight": {
+        "offset": 2359345152,
+        "shape": [
+            4096,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 16777216
+    },
+    "layers.3.attention.wk.weight": {
+        "offset": 2392899584,
+        "shape": [
+            1024,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4194304
+    },
+    "layers.3.attention.wv.weight": {
+        "offset": 2401288192,
+        "shape": [
+            1024,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4194304
+    },
+    "layers.3.attention.wo.weight": {
+        "offset": 2409676800,
+        "shape": [
+            4096,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 16777216
+    },
+    "layers.3.feed_forward.w1.weight": {
+        "offset": 2443231232,
+        "shape": [
+            14336,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 58720256
+    },
+    "layers.3.feed_forward.w3.weight": {
+        "offset": 2560671744,
+        "shape": [
+            14336,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 58720256
+    },
+    "layers.3.feed_forward.w2.weight": {
+        "offset": 2678112256,
+        "shape": [
+            4096,
+            14336
+        ],
+        "dtype": "float16",
+        "num_elements": 58720256
+    },
+    "layers.3.attention_norm.weight": {
+        "offset": 2795552768,
+        "shape": [
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4096
+    },
+    "layers.3.ffn_norm.weight": {
+        "offset": 2795560960,
+        "shape": [
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4096
+    },
+    "layers.4.attention.wq.weight": {
+        "offset": 2795569152,
+        "shape": [
+            4096,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 16777216
+    },
+    "layers.4.attention.wk.weight": {
+        "offset": 2829123584,
+        "shape": [
+            1024,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4194304
+    },
+    "layers.4.attention.wv.weight": {
+        "offset": 2837512192,
+        "shape": [
+            1024,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4194304
+    },
+    "layers.4.attention.wo.weight": {
+        "offset": 2845900800,
+        "shape": [
+            4096,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 16777216
+    },
+    "layers.4.feed_forward.w1.weight": {
+        "offset": 2879455232,
+        "shape": [
+            14336,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 58720256
+    },
+    "layers.4.feed_forward.w3.weight": {
+        "offset": 2996895744,
+        "shape": [
+            14336,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 58720256
+    },
+    "layers.4.feed_forward.w2.weight": {
+        "offset": 3114336256,
+        "shape": [
+            4096,
+            14336
+        ],
+        "dtype": "float16",
+        "num_elements": 58720256
+    },
+    "layers.4.attention_norm.weight": {
+        "offset": 3231776768,
+        "shape": [
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4096
+    },
+    "layers.4.ffn_norm.weight": {
+        "offset": 3231784960,
+        "shape": [
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4096
+    },
+    "layers.5.attention.wq.weight": {
+        "offset": 3231793152,
+        "shape": [
+            4096,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 16777216
+    },
+    "layers.5.attention.wk.weight": {
+        "offset": 3265347584,
+        "shape": [
+            1024,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4194304
+    },
+    "layers.5.attention.wv.weight": {
+        "offset": 3273736192,
+        "shape": [
+            1024,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4194304
+    },
+    "layers.5.attention.wo.weight": {
+        "offset": 3282124800,
+        "shape": [
+            4096,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 16777216
+    },
+    "layers.5.feed_forward.w1.weight": {
+        "offset": 3315679232,
+        "shape": [
+            14336,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 58720256
+    },
+    "layers.5.feed_forward.w3.weight": {
+        "offset": 3433119744,
+        "shape": [
+            14336,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 58720256
+    },
+    "layers.5.feed_forward.w2.weight": {
+        "offset": 3550560256,
+        "shape": [
+            4096,
+            14336
+        ],
+        "dtype": "float16",
+        "num_elements": 58720256
+    },
+    "layers.5.attention_norm.weight": {
+        "offset": 3668000768,
+        "shape": [
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4096
+    },
+    "layers.5.ffn_norm.weight": {
+        "offset": 3668008960,
+        "shape": [
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4096
+    },
+    "layers.6.attention.wq.weight": {
+        "offset": 3668017152,
+        "shape": [
+            4096,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 16777216
+    },
+    "layers.6.attention.wk.weight": {
+        "offset": 3701571584,
+        "shape": [
+            1024,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4194304
+    },
+    "layers.6.attention.wv.weight": {
+        "offset": 3709960192,
+        "shape": [
+            1024,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4194304
+    },
+    "layers.6.attention.wo.weight": {
+        "offset": 3718348800,
+        "shape": [
+            4096,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 16777216
+    },
+    "layers.6.feed_forward.w1.weight": {
+        "offset": 3751903232,
+        "shape": [
+            14336,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 58720256
+    },
+    "layers.6.feed_forward.w3.weight": {
+        "offset": 3869343744,
+        "shape": [
+            14336,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 58720256
+    },
+    "layers.6.feed_forward.w2.weight": {
+        "offset": 3986784256,
+        "shape": [
+            4096,
+            14336
+        ],
+        "dtype": "float16",
+        "num_elements": 58720256
+    },
+    "layers.6.attention_norm.weight": {
+        "offset": 4104224768,
+        "shape": [
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4096
+    },
+    "layers.6.ffn_norm.weight": {
+        "offset": 4104232960,
+        "shape": [
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4096
+    },
+    "layers.7.attention.wq.weight": {
+        "offset": 4104241152,
+        "shape": [
+            4096,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 16777216
+    },
+    "layers.7.attention.wk.weight": {
+        "offset": 4137795584,
+        "shape": [
+            1024,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4194304
+    },
+    "layers.7.attention.wv.weight": {
+        "offset": 4146184192,
+        "shape": [
+            1024,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4194304
+    },
+    "layers.7.attention.wo.weight": {
+        "offset": 4154572800,
+        "shape": [
+            4096,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 16777216
+    },
+    "layers.7.feed_forward.w1.weight": {
+        "offset": 4188127232,
+        "shape": [
+            14336,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 58720256
+    },
+    "layers.7.feed_forward.w3.weight": {
+        "offset": 4305567744,
+        "shape": [
+            14336,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 58720256
+    },
+    "layers.7.feed_forward.w2.weight": {
+        "offset": 4423008256,
+        "shape": [
+            4096,
+            14336
+        ],
+        "dtype": "float16",
+        "num_elements": 58720256
+    },
+    "layers.7.attention_norm.weight": {
+        "offset": 4540448768,
+        "shape": [
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4096
+    },
+    "layers.7.ffn_norm.weight": {
+        "offset": 4540456960,
+        "shape": [
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4096
+    },
+    "layers.8.attention.wq.weight": {
+        "offset": 4540465152,
+        "shape": [
+            4096,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 16777216
+    },
+    "layers.8.attention.wk.weight": {
+        "offset": 4574019584,
+        "shape": [
+            1024,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4194304
+    },
+    "layers.8.attention.wv.weight": {
+        "offset": 4582408192,
+        "shape": [
+            1024,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4194304
+    },
+    "layers.8.attention.wo.weight": {
+        "offset": 4590796800,
+        "shape": [
+            4096,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 16777216
+    },
+    "layers.8.feed_forward.w1.weight": {
+        "offset": 4624351232,
+        "shape": [
+            14336,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 58720256
+    },
+    "layers.8.feed_forward.w3.weight": {
+        "offset": 4741791744,
+        "shape": [
+            14336,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 58720256
+    },
+    "layers.8.feed_forward.w2.weight": {
+        "offset": 4859232256,
+        "shape": [
+            4096,
+            14336
+        ],
+        "dtype": "float16",
+        "num_elements": 58720256
+    },
+    "layers.8.attention_norm.weight": {
+        "offset": 4976672768,
+        "shape": [
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4096
+    },
+    "layers.8.ffn_norm.weight": {
+        "offset": 4976680960,
+        "shape": [
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4096
+    },
+    "layers.9.attention.wq.weight": {
+        "offset": 4976689152,
+        "shape": [
+            4096,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 16777216
+    },
+    "layers.9.attention.wk.weight": {
+        "offset": 5010243584,
+        "shape": [
+            1024,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4194304
+    },
+    "layers.9.attention.wv.weight": {
+        "offset": 5018632192,
+        "shape": [
+            1024,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4194304
+    },
+    "layers.9.attention.wo.weight": {
+        "offset": 5027020800,
+        "shape": [
+            4096,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 16777216
+    },
+    "layers.9.feed_forward.w1.weight": {
+        "offset": 5060575232,
+        "shape": [
+            14336,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 58720256
+    },
+    "layers.9.feed_forward.w3.weight": {
+        "offset": 5178015744,
+        "shape": [
+            14336,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 58720256
+    },
+    "layers.9.feed_forward.w2.weight": {
+        "offset": 5295456256,
+        "shape": [
+            4096,
+            14336
+        ],
+        "dtype": "float16",
+        "num_elements": 58720256
+    },
+    "layers.9.attention_norm.weight": {
+        "offset": 5412896768,
+        "shape": [
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4096
+    },
+    "layers.9.ffn_norm.weight": {
+        "offset": 5412904960,
+        "shape": [
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4096
+    },
+    "layers.10.attention.wq.weight": {
+        "offset": 5412913152,
+        "shape": [
+            4096,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 16777216
+    },
+    "layers.10.attention.wk.weight": {
+        "offset": 5446467584,
+        "shape": [
+            1024,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4194304
+    },
+    "layers.10.attention.wv.weight": {
+        "offset": 5454856192,
+        "shape": [
+            1024,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4194304
+    },
+    "layers.10.attention.wo.weight": {
+        "offset": 5463244800,
+        "shape": [
+            4096,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 16777216
+    },
+    "layers.10.feed_forward.w1.weight": {
+        "offset": 5496799232,
+        "shape": [
+            14336,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 58720256
+    },
+    "layers.10.feed_forward.w3.weight": {
+        "offset": 5614239744,
+        "shape": [
+            14336,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 58720256
+    },
+    "layers.10.feed_forward.w2.weight": {
+        "offset": 5731680256,
+        "shape": [
+            4096,
+            14336
+        ],
+        "dtype": "float16",
+        "num_elements": 58720256
+    },
+    "layers.10.attention_norm.weight": {
+        "offset": 5849120768,
+        "shape": [
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4096
+    },
+    "layers.10.ffn_norm.weight": {
+        "offset": 5849128960,
+        "shape": [
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4096
+    },
+    "layers.11.attention.wq.weight": {
+        "offset": 5849137152,
+        "shape": [
+            4096,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 16777216
+    },
+    "layers.11.attention.wk.weight": {
+        "offset": 5882691584,
+        "shape": [
+            1024,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4194304
+    },
+    "layers.11.attention.wv.weight": {
+        "offset": 5891080192,
+        "shape": [
+            1024,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4194304
+    },
+    "layers.11.attention.wo.weight": {
+        "offset": 5899468800,
+        "shape": [
+            4096,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 16777216
+    },
+    "layers.11.feed_forward.w1.weight": {
+        "offset": 5933023232,
+        "shape": [
+            14336,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 58720256
+    },
+    "layers.11.feed_forward.w3.weight": {
+        "offset": 6050463744,
+        "shape": [
+            14336,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 58720256
+    },
+    "layers.11.feed_forward.w2.weight": {
+        "offset": 6167904256,
+        "shape": [
+            4096,
+            14336
+        ],
+        "dtype": "float16",
+        "num_elements": 58720256
+    },
+    "layers.11.attention_norm.weight": {
+        "offset": 6285344768,
+        "shape": [
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4096
+    },
+    "layers.11.ffn_norm.weight": {
+        "offset": 6285352960,
+        "shape": [
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4096
+    },
+    "layers.12.attention.wq.weight": {
+        "offset": 6285361152,
+        "shape": [
+            4096,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 16777216
+    },
+    "layers.12.attention.wk.weight": {
+        "offset": 6318915584,
+        "shape": [
+            1024,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4194304
+    },
+    "layers.12.attention.wv.weight": {
+        "offset": 6327304192,
+        "shape": [
+            1024,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4194304
+    },
+    "layers.12.attention.wo.weight": {
+        "offset": 6335692800,
+        "shape": [
+            4096,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 16777216
+    },
+    "layers.12.feed_forward.w1.weight": {
+        "offset": 6369247232,
+        "shape": [
+            14336,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 58720256
+    },
+    "layers.12.feed_forward.w3.weight": {
+        "offset": 6486687744,
+        "shape": [
+            14336,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 58720256
+    },
+    "layers.12.feed_forward.w2.weight": {
+        "offset": 6604128256,
+        "shape": [
+            4096,
+            14336
+        ],
+        "dtype": "float16",
+        "num_elements": 58720256
+    },
+    "layers.12.attention_norm.weight": {
+        "offset": 6721568768,
+        "shape": [
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4096
+    },
+    "layers.12.ffn_norm.weight": {
+        "offset": 6721576960,
+        "shape": [
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4096
+    },
+    "layers.13.attention.wq.weight": {
+        "offset": 6721585152,
+        "shape": [
+            4096,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 16777216
+    },
+    "layers.13.attention.wk.weight": {
+        "offset": 6755139584,
+        "shape": [
+            1024,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4194304
+    },
+    "layers.13.attention.wv.weight": {
+        "offset": 6763528192,
+        "shape": [
+            1024,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4194304
+    },
+    "layers.13.attention.wo.weight": {
+        "offset": 6771916800,
+        "shape": [
+            4096,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 16777216
+    },
+    "layers.13.feed_forward.w1.weight": {
+        "offset": 6805471232,
+        "shape": [
+            14336,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 58720256
+    },
+    "layers.13.feed_forward.w3.weight": {
+        "offset": 6922911744,
+        "shape": [
+            14336,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 58720256
+    },
+    "layers.13.feed_forward.w2.weight": {
+        "offset": 7040352256,
+        "shape": [
+            4096,
+            14336
+        ],
+        "dtype": "float16",
+        "num_elements": 58720256
+    },
+    "layers.13.attention_norm.weight": {
+        "offset": 7157792768,
+        "shape": [
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4096
+    },
+    "layers.13.ffn_norm.weight": {
+        "offset": 7157800960,
+        "shape": [
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4096
+    },
+    "layers.14.attention.wq.weight": {
+        "offset": 7157809152,
+        "shape": [
+            4096,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 16777216
+    },
+    "layers.14.attention.wk.weight": {
+        "offset": 7191363584,
+        "shape": [
+            1024,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4194304
+    },
+    "layers.14.attention.wv.weight": {
+        "offset": 7199752192,
+        "shape": [
+            1024,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4194304
+    },
+    "layers.14.attention.wo.weight": {
+        "offset": 7208140800,
+        "shape": [
+            4096,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 16777216
+    },
+    "layers.14.feed_forward.w1.weight": {
+        "offset": 7241695232,
+        "shape": [
+            14336,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 58720256
+    },
+    "layers.14.feed_forward.w3.weight": {
+        "offset": 7359135744,
+        "shape": [
+            14336,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 58720256
+    },
+    "layers.14.feed_forward.w2.weight": {
+        "offset": 7476576256,
+        "shape": [
+            4096,
+            14336
+        ],
+        "dtype": "float16",
+        "num_elements": 58720256
+    },
+    "layers.14.attention_norm.weight": {
+        "offset": 7594016768,
+        "shape": [
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4096
+    },
+    "layers.14.ffn_norm.weight": {
+        "offset": 7594024960,
+        "shape": [
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4096
+    },
+    "layers.15.attention.wq.weight": {
+        "offset": 7594033152,
+        "shape": [
+            4096,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 16777216
+    },
+    "layers.15.attention.wk.weight": {
+        "offset": 7627587584,
+        "shape": [
+            1024,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4194304
+    },
+    "layers.15.attention.wv.weight": {
+        "offset": 7635976192,
+        "shape": [
+            1024,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4194304
+    },
+    "layers.15.attention.wo.weight": {
+        "offset": 7644364800,
+        "shape": [
+            4096,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 16777216
+    },
+    "layers.15.feed_forward.w1.weight": {
+        "offset": 7677919232,
+        "shape": [
+            14336,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 58720256
+    },
+    "layers.15.feed_forward.w3.weight": {
+        "offset": 7795359744,
+        "shape": [
+            14336,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 58720256
+    },
+    "layers.15.feed_forward.w2.weight": {
+        "offset": 7912800256,
+        "shape": [
+            4096,
+            14336
+        ],
+        "dtype": "float16",
+        "num_elements": 58720256
+    },
+    "layers.15.attention_norm.weight": {
+        "offset": 8030240768,
+        "shape": [
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4096
+    },
+    "layers.15.ffn_norm.weight": {
+        "offset": 8030248960,
+        "shape": [
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4096
+    },
+    "layers.16.attention.wq.weight": {
+        "offset": 8030257152,
+        "shape": [
+            4096,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 16777216
+    },
+    "layers.16.attention.wk.weight": {
+        "offset": 8063811584,
+        "shape": [
+            1024,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4194304
+    },
+    "layers.16.attention.wv.weight": {
+        "offset": 8072200192,
+        "shape": [
+            1024,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4194304
+    },
+    "layers.16.attention.wo.weight": {
+        "offset": 8080588800,
+        "shape": [
+            4096,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 16777216
+    },
+    "layers.16.feed_forward.w1.weight": {
+        "offset": 8114143232,
+        "shape": [
+            14336,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 58720256
+    },
+    "layers.16.feed_forward.w3.weight": {
+        "offset": 8231583744,
+        "shape": [
+            14336,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 58720256
+    },
+    "layers.16.feed_forward.w2.weight": {
+        "offset": 8349024256,
+        "shape": [
+            4096,
+            14336
+        ],
+        "dtype": "float16",
+        "num_elements": 58720256
+    },
+    "layers.16.attention_norm.weight": {
+        "offset": 8466464768,
+        "shape": [
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4096
+    },
+    "layers.16.ffn_norm.weight": {
+        "offset": 8466472960,
+        "shape": [
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4096
+    },
+    "layers.17.attention.wq.weight": {
+        "offset": 8466481152,
+        "shape": [
+            4096,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 16777216
+    },
+    "layers.17.attention.wk.weight": {
+        "offset": 8500035584,
+        "shape": [
+            1024,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4194304
+    },
+    "layers.17.attention.wv.weight": {
+        "offset": 8508424192,
+        "shape": [
+            1024,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4194304
+    },
+    "layers.17.attention.wo.weight": {
+        "offset": 8516812800,
+        "shape": [
+            4096,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 16777216
+    },
+    "layers.17.feed_forward.w1.weight": {
+        "offset": 8550367232,
+        "shape": [
+            14336,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 58720256
+    },
+    "layers.17.feed_forward.w3.weight": {
+        "offset": 8667807744,
+        "shape": [
+            14336,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 58720256
+    },
+    "layers.17.feed_forward.w2.weight": {
+        "offset": 8785248256,
+        "shape": [
+            4096,
+            14336
+        ],
+        "dtype": "float16",
+        "num_elements": 58720256
+    },
+    "layers.17.attention_norm.weight": {
+        "offset": 8902688768,
+        "shape": [
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4096
+    },
+    "layers.17.ffn_norm.weight": {
+        "offset": 8902696960,
+        "shape": [
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4096
+    },
+    "layers.18.attention.wq.weight": {
+        "offset": 8902705152,
+        "shape": [
+            4096,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 16777216
+    },
+    "layers.18.attention.wk.weight": {
+        "offset": 8936259584,
+        "shape": [
+            1024,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4194304
+    },
+    "layers.18.attention.wv.weight": {
+        "offset": 8944648192,
+        "shape": [
+            1024,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4194304
+    },
+    "layers.18.attention.wo.weight": {
+        "offset": 8953036800,
+        "shape": [
+            4096,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 16777216
+    },
+    "layers.18.feed_forward.w1.weight": {
+        "offset": 8986591232,
+        "shape": [
+            14336,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 58720256
+    },
+    "layers.18.feed_forward.w3.weight": {
+        "offset": 9104031744,
+        "shape": [
+            14336,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 58720256
+    },
+    "layers.18.feed_forward.w2.weight": {
+        "offset": 9221472256,
+        "shape": [
+            4096,
+            14336
+        ],
+        "dtype": "float16",
+        "num_elements": 58720256
+    },
+    "layers.18.attention_norm.weight": {
+        "offset": 9338912768,
+        "shape": [
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4096
+    },
+    "layers.18.ffn_norm.weight": {
+        "offset": 9338920960,
+        "shape": [
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4096
+    },
+    "layers.19.attention.wq.weight": {
+        "offset": 9338929152,
+        "shape": [
+            4096,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 16777216
+    },
+    "layers.19.attention.wk.weight": {
+        "offset": 9372483584,
+        "shape": [
+            1024,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4194304
+    },
+    "layers.19.attention.wv.weight": {
+        "offset": 9380872192,
+        "shape": [
+            1024,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4194304
+    },
+    "layers.19.attention.wo.weight": {
+        "offset": 9389260800,
+        "shape": [
+            4096,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 16777216
+    },
+    "layers.19.feed_forward.w1.weight": {
+        "offset": 9422815232,
+        "shape": [
+            14336,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 58720256
+    },
+    "layers.19.feed_forward.w3.weight": {
+        "offset": 9540255744,
+        "shape": [
+            14336,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 58720256
+    },
+    "layers.19.feed_forward.w2.weight": {
+        "offset": 9657696256,
+        "shape": [
+            4096,
+            14336
+        ],
+        "dtype": "float16",
+        "num_elements": 58720256
+    },
+    "layers.19.attention_norm.weight": {
+        "offset": 9775136768,
+        "shape": [
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4096
+    },
+    "layers.19.ffn_norm.weight": {
+        "offset": 9775144960,
+        "shape": [
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4096
+    },
+    "layers.20.attention.wq.weight": {
+        "offset": 9775153152,
+        "shape": [
+            4096,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 16777216
+    },
+    "layers.20.attention.wk.weight": {
+        "offset": 9808707584,
+        "shape": [
+            1024,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4194304
+    },
+    "layers.20.attention.wv.weight": {
+        "offset": 9817096192,
+        "shape": [
+            1024,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4194304
+    },
+    "layers.20.attention.wo.weight": {
+        "offset": 9825484800,
+        "shape": [
+            4096,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 16777216
+    },
+    "layers.20.feed_forward.w1.weight": {
+        "offset": 9859039232,
+        "shape": [
+            14336,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 58720256
+    },
+    "layers.20.feed_forward.w3.weight": {
+        "offset": 9976479744,
+        "shape": [
+            14336,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 58720256
+    },
+    "layers.20.feed_forward.w2.weight": {
+        "offset": 10093920256,
+        "shape": [
+            4096,
+            14336
+        ],
+        "dtype": "float16",
+        "num_elements": 58720256
+    },
+    "layers.20.attention_norm.weight": {
+        "offset": 10211360768,
+        "shape": [
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4096
+    },
+    "layers.20.ffn_norm.weight": {
+        "offset": 10211368960,
+        "shape": [
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4096
+    },
+    "layers.21.attention.wq.weight": {
+        "offset": 10211377152,
+        "shape": [
+            4096,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 16777216
+    },
+    "layers.21.attention.wk.weight": {
+        "offset": 10244931584,
+        "shape": [
+            1024,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4194304
+    },
+    "layers.21.attention.wv.weight": {
+        "offset": 10253320192,
+        "shape": [
+            1024,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4194304
+    },
+    "layers.21.attention.wo.weight": {
+        "offset": 10261708800,
+        "shape": [
+            4096,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 16777216
+    },
+    "layers.21.feed_forward.w1.weight": {
+        "offset": 10295263232,
+        "shape": [
+            14336,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 58720256
+    },
+    "layers.21.feed_forward.w3.weight": {
+        "offset": 10412703744,
+        "shape": [
+            14336,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 58720256
+    },
+    "layers.21.feed_forward.w2.weight": {
+        "offset": 10530144256,
+        "shape": [
+            4096,
+            14336
+        ],
+        "dtype": "float16",
+        "num_elements": 58720256
+    },
+    "layers.21.attention_norm.weight": {
+        "offset": 10647584768,
+        "shape": [
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4096
+    },
+    "layers.21.ffn_norm.weight": {
+        "offset": 10647592960,
+        "shape": [
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4096
+    },
+    "layers.22.attention.wq.weight": {
+        "offset": 10647601152,
+        "shape": [
+            4096,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 16777216
+    },
+    "layers.22.attention.wk.weight": {
+        "offset": 10681155584,
+        "shape": [
+            1024,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4194304
+    },
+    "layers.22.attention.wv.weight": {
+        "offset": 10689544192,
+        "shape": [
+            1024,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4194304
+    },
+    "layers.22.attention.wo.weight": {
+        "offset": 10697932800,
+        "shape": [
+            4096,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 16777216
+    },
+    "layers.22.feed_forward.w1.weight": {
+        "offset": 10731487232,
+        "shape": [
+            14336,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 58720256
+    },
+    "layers.22.feed_forward.w3.weight": {
+        "offset": 10848927744,
+        "shape": [
+            14336,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 58720256
+    },
+    "layers.22.feed_forward.w2.weight": {
+        "offset": 10966368256,
+        "shape": [
+            4096,
+            14336
+        ],
+        "dtype": "float16",
+        "num_elements": 58720256
+    },
+    "layers.22.attention_norm.weight": {
+        "offset": 11083808768,
+        "shape": [
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4096
+    },
+    "layers.22.ffn_norm.weight": {
+        "offset": 11083816960,
+        "shape": [
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4096
+    },
+    "layers.23.attention.wq.weight": {
+        "offset": 11083825152,
+        "shape": [
+            4096,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 16777216
+    },
+    "layers.23.attention.wk.weight": {
+        "offset": 11117379584,
+        "shape": [
+            1024,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4194304
+    },
+    "layers.23.attention.wv.weight": {
+        "offset": 11125768192,
+        "shape": [
+            1024,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4194304
+    },
+    "layers.23.attention.wo.weight": {
+        "offset": 11134156800,
+        "shape": [
+            4096,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 16777216
+    },
+    "layers.23.feed_forward.w1.weight": {
+        "offset": 11167711232,
+        "shape": [
+            14336,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 58720256
+    },
+    "layers.23.feed_forward.w3.weight": {
+        "offset": 11285151744,
+        "shape": [
+            14336,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 58720256
+    },
+    "layers.23.feed_forward.w2.weight": {
+        "offset": 11402592256,
+        "shape": [
+            4096,
+            14336
+        ],
+        "dtype": "float16",
+        "num_elements": 58720256
+    },
+    "layers.23.attention_norm.weight": {
+        "offset": 11520032768,
+        "shape": [
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4096
+    },
+    "layers.23.ffn_norm.weight": {
+        "offset": 11520040960,
+        "shape": [
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4096
+    },
+    "layers.24.attention.wq.weight": {
+        "offset": 11520049152,
+        "shape": [
+            4096,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 16777216
+    },
+    "layers.24.attention.wk.weight": {
+        "offset": 11553603584,
+        "shape": [
+            1024,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4194304
+    },
+    "layers.24.attention.wv.weight": {
+        "offset": 11561992192,
+        "shape": [
+            1024,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4194304
+    },
+    "layers.24.attention.wo.weight": {
+        "offset": 11570380800,
+        "shape": [
+            4096,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 16777216
+    },
+    "layers.24.feed_forward.w1.weight": {
+        "offset": 11603935232,
+        "shape": [
+            14336,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 58720256
+    },
+    "layers.24.feed_forward.w3.weight": {
+        "offset": 11721375744,
+        "shape": [
+            14336,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 58720256
+    },
+    "layers.24.feed_forward.w2.weight": {
+        "offset": 11838816256,
+        "shape": [
+            4096,
+            14336
+        ],
+        "dtype": "float16",
+        "num_elements": 58720256
+    },
+    "layers.24.attention_norm.weight": {
+        "offset": 11956256768,
+        "shape": [
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4096
+    },
+    "layers.24.ffn_norm.weight": {
+        "offset": 11956264960,
+        "shape": [
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4096
+    },
+    "layers.25.attention.wq.weight": {
+        "offset": 11956273152,
+        "shape": [
+            4096,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 16777216
+    },
+    "layers.25.attention.wk.weight": {
+        "offset": 11989827584,
+        "shape": [
+            1024,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4194304
+    },
+    "layers.25.attention.wv.weight": {
+        "offset": 11998216192,
+        "shape": [
+            1024,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4194304
+    },
+    "layers.25.attention.wo.weight": {
+        "offset": 12006604800,
+        "shape": [
+            4096,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 16777216
+    },
+    "layers.25.feed_forward.w1.weight": {
+        "offset": 12040159232,
+        "shape": [
+            14336,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 58720256
+    },
+    "layers.25.feed_forward.w3.weight": {
+        "offset": 12157599744,
+        "shape": [
+            14336,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 58720256
+    },
+    "layers.25.feed_forward.w2.weight": {
+        "offset": 12275040256,
+        "shape": [
+            4096,
+            14336
+        ],
+        "dtype": "float16",
+        "num_elements": 58720256
+    },
+    "layers.25.attention_norm.weight": {
+        "offset": 12392480768,
+        "shape": [
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4096
+    },
+    "layers.25.ffn_norm.weight": {
+        "offset": 12392488960,
+        "shape": [
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4096
+    },
+    "layers.26.attention.wq.weight": {
+        "offset": 12392497152,
+        "shape": [
+            4096,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 16777216
+    },
+    "layers.26.attention.wk.weight": {
+        "offset": 12426051584,
+        "shape": [
+            1024,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4194304
+    },
+    "layers.26.attention.wv.weight": {
+        "offset": 12434440192,
+        "shape": [
+            1024,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4194304
+    },
+    "layers.26.attention.wo.weight": {
+        "offset": 12442828800,
+        "shape": [
+            4096,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 16777216
+    },
+    "layers.26.feed_forward.w1.weight": {
+        "offset": 12476383232,
+        "shape": [
+            14336,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 58720256
+    },
+    "layers.26.feed_forward.w3.weight": {
+        "offset": 12593823744,
+        "shape": [
+            14336,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 58720256
+    },
+    "layers.26.feed_forward.w2.weight": {
+        "offset": 12711264256,
+        "shape": [
+            4096,
+            14336
+        ],
+        "dtype": "float16",
+        "num_elements": 58720256
+    },
+    "layers.26.attention_norm.weight": {
+        "offset": 12828704768,
+        "shape": [
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4096
+    },
+    "layers.26.ffn_norm.weight": {
+        "offset": 12828712960,
+        "shape": [
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4096
+    },
+    "layers.27.attention.wq.weight": {
+        "offset": 12828721152,
+        "shape": [
+            4096,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 16777216
+    },
+    "layers.27.attention.wk.weight": {
+        "offset": 12862275584,
+        "shape": [
+            1024,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4194304
+    },
+    "layers.27.attention.wv.weight": {
+        "offset": 12870664192,
+        "shape": [
+            1024,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4194304
+    },
+    "layers.27.attention.wo.weight": {
+        "offset": 12879052800,
+        "shape": [
+            4096,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 16777216
+    },
+    "layers.27.feed_forward.w1.weight": {
+        "offset": 12912607232,
+        "shape": [
+            14336,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 58720256
+    },
+    "layers.27.feed_forward.w3.weight": {
+        "offset": 13030047744,
+        "shape": [
+            14336,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 58720256
+    },
+    "layers.27.feed_forward.w2.weight": {
+        "offset": 13147488256,
+        "shape": [
+            4096,
+            14336
+        ],
+        "dtype": "float16",
+        "num_elements": 58720256
+    },
+    "layers.27.attention_norm.weight": {
+        "offset": 13264928768,
+        "shape": [
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4096
+    },
+    "layers.27.ffn_norm.weight": {
+        "offset": 13264936960,
+        "shape": [
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4096
+    },
+    "layers.28.attention.wq.weight": {
+        "offset": 13264945152,
+        "shape": [
+            4096,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 16777216
+    },
+    "layers.28.attention.wk.weight": {
+        "offset": 13298499584,
+        "shape": [
+            1024,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4194304
+    },
+    "layers.28.attention.wv.weight": {
+        "offset": 13306888192,
+        "shape": [
+            1024,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4194304
+    },
+    "layers.28.attention.wo.weight": {
+        "offset": 13315276800,
+        "shape": [
+            4096,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 16777216
+    },
+    "layers.28.feed_forward.w1.weight": {
+        "offset": 13348831232,
+        "shape": [
+            14336,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 58720256
+    },
+    "layers.28.feed_forward.w3.weight": {
+        "offset": 13466271744,
+        "shape": [
+            14336,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 58720256
+    },
+    "layers.28.feed_forward.w2.weight": {
+        "offset": 13583712256,
+        "shape": [
+            4096,
+            14336
+        ],
+        "dtype": "float16",
+        "num_elements": 58720256
+    },
+    "layers.28.attention_norm.weight": {
+        "offset": 13701152768,
+        "shape": [
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4096
+    },
+    "layers.28.ffn_norm.weight": {
+        "offset": 13701160960,
+        "shape": [
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4096
+    },
+    "layers.29.attention.wq.weight": {
+        "offset": 13701169152,
+        "shape": [
+            4096,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 16777216
+    },
+    "layers.29.attention.wk.weight": {
+        "offset": 13734723584,
+        "shape": [
+            1024,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4194304
+    },
+    "layers.29.attention.wv.weight": {
+        "offset": 13743112192,
+        "shape": [
+            1024,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4194304
+    },
+    "layers.29.attention.wo.weight": {
+        "offset": 13751500800,
+        "shape": [
+            4096,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 16777216
+    },
+    "layers.29.feed_forward.w1.weight": {
+        "offset": 13785055232,
+        "shape": [
+            14336,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 58720256
+    },
+    "layers.29.feed_forward.w3.weight": {
+        "offset": 13902495744,
+        "shape": [
+            14336,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 58720256
+    },
+    "layers.29.feed_forward.w2.weight": {
+        "offset": 14019936256,
+        "shape": [
+            4096,
+            14336
+        ],
+        "dtype": "float16",
+        "num_elements": 58720256
+    },
+    "layers.29.attention_norm.weight": {
+        "offset": 14137376768,
+        "shape": [
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4096
+    },
+    "layers.29.ffn_norm.weight": {
+        "offset": 14137384960,
+        "shape": [
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4096
+    },
+    "layers.30.attention.wq.weight": {
+        "offset": 14137393152,
+        "shape": [
+            4096,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 16777216
+    },
+    "layers.30.attention.wk.weight": {
+        "offset": 14170947584,
+        "shape": [
+            1024,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4194304
+    },
+    "layers.30.attention.wv.weight": {
+        "offset": 14179336192,
+        "shape": [
+            1024,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4194304
+    },
+    "layers.30.attention.wo.weight": {
+        "offset": 14187724800,
+        "shape": [
+            4096,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 16777216
+    },
+    "layers.30.feed_forward.w1.weight": {
+        "offset": 14221279232,
+        "shape": [
+            14336,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 58720256
+    },
+    "layers.30.feed_forward.w3.weight": {
+        "offset": 14338719744,
+        "shape": [
+            14336,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 58720256
+    },
+    "layers.30.feed_forward.w2.weight": {
+        "offset": 14456160256,
+        "shape": [
+            4096,
+            14336
+        ],
+        "dtype": "float16",
+        "num_elements": 58720256
+    },
+    "layers.30.attention_norm.weight": {
+        "offset": 14573600768,
+        "shape": [
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4096
+    },
+    "layers.30.ffn_norm.weight": {
+        "offset": 14573608960,
+        "shape": [
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4096
+    },
+    "layers.31.attention.wq.weight": {
+        "offset": 14573617152,
+        "shape": [
+            4096,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 16777216
+    },
+    "layers.31.attention.wk.weight": {
+        "offset": 14607171584,
+        "shape": [
+            1024,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4194304
+    },
+    "layers.31.attention.wv.weight": {
+        "offset": 14615560192,
+        "shape": [
+            1024,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4194304
+    },
+    "layers.31.attention.wo.weight": {
+        "offset": 14623948800,
+        "shape": [
+            4096,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 16777216
+    },
+    "layers.31.feed_forward.w1.weight": {
+        "offset": 14657503232,
+        "shape": [
+            14336,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 58720256
+    },
+    "layers.31.feed_forward.w3.weight": {
+        "offset": 14774943744,
+        "shape": [
+            14336,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 58720256
+    },
+    "layers.31.feed_forward.w2.weight": {
+        "offset": 14892384256,
+        "shape": [
+            4096,
+            14336
+        ],
+        "dtype": "float16",
+        "num_elements": 58720256
+    },
+    "layers.31.attention_norm.weight": {
+        "offset": 15009824768,
+        "shape": [
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4096
+    },
+    "layers.31.ffn_norm.weight": {
+        "offset": 15009832960,
+        "shape": [
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4096
+    },
+    "norm.weight": {
+        "offset": 15009841152,
+        "shape": [
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 4096
+    },
+    "output.weight": {
+        "offset": 15009849344,
+        "shape": [
+            128256,
+            4096
+        ],
+        "dtype": "float16",
+        "num_elements": 525336576
+    }
+}

@@ -1,0 +1,4 @@
+pmc: GPUBusy, Wavefronts, VALUInsts, SALUInsts, GPU_UTIL, L2CacheHit, SQ_WAVE_CYCLES, OccupancyPercent, MemUnitBusy
+range: 0:1
+gpu:1
+kernel:forward_kernel

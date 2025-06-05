@@ -1,0 +1,4 @@
+"Index","KernelName","gpu-id","queue-id","queue-index","pid","tid","grd","wgr","lds","scr","arch_vgpr","accum_vgpr","sgpr","wave_size","sig","obj","DispatchNs","BeginNs","EndNs","CompleteNs","DurationNs"
+0,"kernelA(double*, unsigned long) [clone .kd]",1,0,2,2657832,2657832,1048576,1024,0,0,8,0,128,32,"0x0","0x74d583841200",349571200179038,349571200363387,349571200531819,349571200630903,168432
+1,"kernelB(int*, unsigned long) [clone .kd]",1,0,3,2657832,2657832,1048576,1024,0,0,8,0,128,32,"0x0","0x74d583841240",349571200338112,349571200534464,349571200567966,349571200736819,33502
+2,"kernelC(double*, int const*, unsigned long) [clone .kd]",1,0,4,2657832,2657832,1048576,1024,0,0,8,0,128,32,"0x0","0x74d583841280",349571200345626,349571200569929,349571200798111,349571200888730,228182

@@ -1,0 +1,2 @@
+"Name","Calls","TotalDurationNs","AverageNs","Percentage"
+"matrixMul(float const*, float const*, float*, int, int, int)",1,704946528,704946528,100.0

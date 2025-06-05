@@ -1,0 +1,4 @@
+"Name","Calls","TotalDurationNs","AverageNs","Percentage"
+"kernelC(double*, int const*, unsigned long) [clone .kd]",1,228182,228182,53.05126988998317
+"kernelA(double*, unsigned long) [clone .kd]",1,168432,168432,39.159668554529475
+"kernelB(int*, unsigned long) [clone .kd]",1,33502,33502,7.789061555487357

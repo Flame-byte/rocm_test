@@ -1,0 +1,8 @@
+# 监控组1：基础计数器
+pmc : Wavefronts VALUInsts SALUInsts
+# 监控组2：派生指标
+pmc : VALUUtilization L2CacheHit
+# 过滤条件（仅监控前5次调度）
+range: 0:4
+gpu: 0
+kernel: matmul

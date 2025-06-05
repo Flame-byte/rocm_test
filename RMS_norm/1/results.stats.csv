@@ -1,0 +1,2 @@
+"Name","Calls","TotalDurationNs","AverageNs","Percentage"
+"RMSNorm(float*, float*, float*, int, int)",1,31493190,31493190,100.0

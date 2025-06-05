@@ -1,0 +1,3 @@
+Dispatch_ID,GPU_ID,Queue_ID,PID,TID,Grid_Size,Workgroup_Size,LDS_Per_Workgroup,Scratch_Per_Workitem,Arch_VGPR,Accum_VGPR,SGPR,Wave_Size,Kernel_Name,Start_Timestamp,End_Timestamp,Correlation_ID,SQ_WAVE_CYCLES,GPUBusy,GPU_UTIL,L2CacheHit,MemUnitBusy,OccupancyPercent,SALUInsts,VALUInsts,Wavefronts
+
+0,1,1,1787699,1787699,8388608,32,6656,0,24,0,128,32,"forward_kernel_tiled(__half const*, __half const*, __half const*, __half*, int, int, int, int) (.kd)",2162927929640796,2162928521697920,0,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,262144.000000

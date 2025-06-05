@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/tokenizer_example.dir/example.cpp.o -o tokenizer_example   -L/home/qin/rocm_test/Tokenizer/target/release  -Wl,-rpath,/home/qin/rocm_test/Tokenizer/target/release: -ltokenizer 

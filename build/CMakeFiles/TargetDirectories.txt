@@ -1,0 +1,2 @@
+/home/qin/rocm_test/build/CMakeFiles/edit_cache.dir
+/home/qin/rocm_test/build/CMakeFiles/rebuild_cache.dir
