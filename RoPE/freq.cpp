@@ -1,6 +1,6 @@
 #include <iostream>
 #include <hip/hip_runtime.h>
-#include <cmath>
+//#include <cmath>
 #include <hip/hip_fp16.h>
 
 __global__ void precompute_freqs_cis_kernel(__half* freqs_cis, int dim, int end, float theta) {
@@ -50,7 +50,7 @@ __half* precompute_freqs_cis_gpu(int dim, int end, float theta = 10000.0f) {
 int main() {
     int dim = 128;
     int max_seq_len = 2048;
-    float rope_theta = 500000.0f;
+    float rope_theta = 10000.0f;
 
     // GPU计算
     __half* d_freqs_cis = precompute_freqs_cis_gpu(dim, max_seq_len, rope_theta);
@@ -64,8 +64,8 @@ int main() {
     std::cout << "Shape: [" << max_seq_len << ", " << dim << "]" << std::endl;
 
     // 打印前4行前6列数据
-    for(int i = 0; i < 4; i++) {
-        for(int j = 0; j < 6; j++) {
+    for(int i = 0; i < 10; i++) {
+        for(int j = 0; j < 10; j++) {
             std::cout << __half2float(h_freqs_cis[i * dim + j]) << " ";
         }
         std::cout << std::endl;

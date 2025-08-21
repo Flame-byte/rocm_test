@@ -74,7 +74,13 @@
         "shared_mutex": "cpp",
         "cinttypes": "cpp",
         "typeindex": "cpp",
-        "valarray": "cpp"
+        "valarray": "cpp",
+        "csignal": "cpp",
+        "strstream": "cpp",
+        "cfenv": "cpp",
+        "source_location": "cpp",
+        "future": "cpp",
+        "stdfloat": "cpp"
     },
     "cmake.sourceDirectory": "/home/qin/rocm_test/SiLU",
     "C_Cpp.errorSquiggles": "disabled"
